@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-zerwg5.citysinglescommunity.com/sitemap.xml
